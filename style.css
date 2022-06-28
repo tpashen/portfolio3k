@@ -26,6 +26,7 @@ nav a{
     background-color:#335925;
     color: white;
     padding:10px;
+    width:20%;
 }
 nav{
     display:flex;
