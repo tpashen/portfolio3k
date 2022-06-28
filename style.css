@@ -27,6 +27,7 @@ nav a{
     color: white;
     padding:10px;
     width:20%;
+    margin: 20px;
 }
 nav{
     display:flex;
